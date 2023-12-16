@@ -1,3 +1,5 @@
+-- I did this project with the youtube channel from Alex: https://www.youtube.com/@AlexTheAnalyst
+
 -- Cleaning data in SQL Queries
 
 Select *
